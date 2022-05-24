@@ -1,6 +1,6 @@
 <h1 align="center"><img width="60%" height="auto" src="https://github.com/junaid-sultan/junaid-sultan/blob/master/muzDev.gif" height="120px"/></h1>
 
-<h1 align="center">Hi All <img src="https://github.com/junaid-sultan/junaid-sultan/blob/master/MuzWave.gif" width="30px"/>, I'm Muhammad Junaid</h1>
+<h1 align="center">Hi All I'm Muhammad Junaid</h1>
 
 <h3 align="center">I'm a passionate FrontEnd Developer and Freelancer from Pakistan</h3>
 
