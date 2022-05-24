@@ -56,10 +56,6 @@ Connect with me: https://www.facebook.com/junaidsultan1234
 <br/>
 <br/>
 
-<a href="https://github.com/junaid-sultan/github-readme-activity-graph"><img alt="junaid sultan Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=junaid-sultan&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
-
-<br/>
-<br/>
 
 ## ❤ Views and Followers
 
